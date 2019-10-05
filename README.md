@@ -29,3 +29,14 @@ Test Javascript block of code:
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
 ```
+
+---
+
+Table Test:
+
+|**Item|Category|Price**|
+|---|---|---|
+|Item1|Category1|5 USD|
+|---|---|---|
+
+---
