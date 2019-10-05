@@ -34,9 +34,9 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 
 Table Test:
 
-|**Item|Category|Price**|
+|Item|Category|Price|
 |---|---|---|
 |Item1|Category1|5 USD|
-|---|---|---|
+|---  |---      |---  |
 
 ---
