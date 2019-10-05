@@ -21,3 +21,10 @@ get-vm
 get-vmhost
 ```
 
+Test Javascript block of code:
+
+```javascript
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script>
+```
