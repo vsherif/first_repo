@@ -12,5 +12,12 @@ _This is my first repo_
 
 >Test Quotes
 
+Test Command Quotes `get-vm "VM1"
 
+Test a block of code:
+
+```powershell
+get-vm
+get-vmhost
+```
 
