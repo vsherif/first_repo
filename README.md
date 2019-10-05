@@ -38,5 +38,6 @@ Table Test:
 |---|---|---|
 |Item1|Category1|5 USD|
 |---  |---      |---  |
+|Item2|Category2|5 EGP|
 
 ---
